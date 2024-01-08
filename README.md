@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **cankurttekin/cankurttekin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### connect
 
+[![Linkedin Badge](https://img.shields.io/badge/cankurttekin-linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/cankurttekin/)
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=cankurttekin&theme=transparent&hide_border=true&border_radius=1&card_width=350&hide_current_streak=true&hide_longest_streak=true)](https://git.io/streak-stats) 
+ 
 ![](https://komarev.com/ghpvc/?username=cankurttekin&base=1000&style=plastic&color=blueviolet)
+
