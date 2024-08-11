@@ -23,6 +23,7 @@
 - [X] 📖 [Domain-Driven Design - Eric Evans]()
 - [ ] 📖 [Test Driven Development - Kent Beck]()
 - [ ] 📖 [Algorithms - Robert Sedgewick]()
+- [X] 📖 [A Common-Sense Guide to Data Structures and Algorithms - Jay Wengrow]()
 - [ ] 📖 [Grokking Algorithms - Aditya Bhargava]()
 - [ ] 📖 [The Pragmatic Programmer - David Thomas, Andrew Hunt]()
 
