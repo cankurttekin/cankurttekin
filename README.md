@@ -5,6 +5,7 @@
 - full time observer and tinkerer; cannot resist fixing or complaining any problem i encounter around
 
 #### blog posts
+- [Dependency Injection](https://can.kurttekin.com/2024/09/dependency-injection.html)
 - [How To Secure Your Spring Application](http://can.kurttekin.com/2024/08/how-to-secure-your-spring-application.html)
 - [Event Sourcing Pattern](http://can.kurttekin.com/2024/08/event-sourcing-pattern.html)
 - [Immutability](http://can.kurttekin.com/2024/08/immutability-in-software-design.html)
