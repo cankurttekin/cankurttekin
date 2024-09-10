@@ -4,6 +4,10 @@
 - i love hobby engineering, libre software, repair-friendly products and anything well engineered for engineers by engineers
 - full time observer and tinkerer; cannot resist fixing or complaining any problem i encounter around
 
+![cankurttekin's Stats](https://github-readme-stats.vercel.app/api?username=cankurttekin&theme=default&show_icons=true&hide_border=true&count_private=true)
+![cankurttekin's Streak](https://github-readme-streak-stats.herokuapp.com/?user=cankurttekin&theme=default&hide_border=true)
+![cankurttekin's stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cankurttekin)
+
 #### blog posts
 - [Dependency Injection](https://can.kurttekin.com/2024/09/dependency-injection.html)
 - [How To Secure Your Spring Application](http://can.kurttekin.com/2024/08/how-to-secure-your-spring-application.html)
