@@ -33,6 +33,7 @@
 - [ ] 📖 [The Pragmatic Programmer - David Thomas, Andrew Hunt]()
 
 ##### some of my favorite video content creators currently
+- [Low Level Learning](https://www.youtube.com/@LowLevelLearning)
 - [bigclivedotcom](https://www.youtube.com/@bigclivedotcom)
 - [Technology Connections](https://www.youtube.com/@TechnologyConnections)
 - [Computerphile](https://www.youtube.com/@Computerphile)
