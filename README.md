@@ -35,3 +35,6 @@
 - [Computerphile](https://www.youtube.com/@Computerphile)
 - [David Bombal](https://www.youtube.com/@davidbombal)
 - [Flu TV](https://www.youtube.com/@flu)
+
+
+[![alt text](banner.svg)](http://u.fsf.org/16e)
