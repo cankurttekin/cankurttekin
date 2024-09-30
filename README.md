@@ -2,7 +2,7 @@
 - focusing on back-end development
 - i currently learn java and spring
 - i love hobby engineering, libre software, repair-friendly products and anything well engineered for engineers by engineers
-- full time observer and tinkerer; cannot resist fixing or complaining any problem i encounter around
+- full time observer and tinkerer; cannot resist fixing problems i encounter around
 
 #### blog posts
 - [Dependency Injection](https://can.kurttekin.com/2024/09/dependency-injection.html)
