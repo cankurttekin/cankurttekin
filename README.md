@@ -1,3 +1,5 @@
+### > i'm looking for a job, if you are hiring or know someone contact me via email
+
 ### about me
 - focusing on back-end development
 - i currently learn java and spring
