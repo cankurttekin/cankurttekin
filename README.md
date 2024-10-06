@@ -36,7 +36,7 @@
 - [Technology Connections](https://www.youtube.com/@TechnologyConnections)
 - [Computerphile](https://www.youtube.com/@Computerphile)
 - [David Bombal](https://www.youtube.com/@davidbombal)
-- [Flu TV](https://www.youtube.com/@flu)
+- [fern](https://www.youtube.com/@fern-tv)
 
 
 [![alt text](banner.svg)](http://u.fsf.org/16e)
