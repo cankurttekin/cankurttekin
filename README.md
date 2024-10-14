@@ -17,22 +17,24 @@ building robust, scalable web applications using architectures and design patter
 </details>
 
 <details>
-<summary><strong>books</strong></summary>
-
-- [x] 📖 [Free Software, Free Society: Selected Essays of Richard M. Stallman]()
-- [x] 📖 [Software Engineering - Ian Sommerville]()
-- [x] 📖 [Design Patterns - Gang Of Four]()
-- [x] 📖 [Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin]()
-- [x] 📖 [Dive Into Design Patterns - Alexander Shvets]()
-- [X] 📖 [Spring Microservices in Action - John Carnell, Illary Huaylupo Sánchez]()
-- [X] 📖 [Spring Start Here Learn what you need and learn it well - Laurentiu Spilca]() 
-- [ ] 📖 [Patterns of Enterprise Application Architecture - Martin Fowler]()
-- [X] 📖 [Domain-Driven Design - Eric Evans]()
-- [ ] 📖 [Test Driven Development - Kent Beck]()
-- [ ] 📖 [Algorithms - Robert Sedgewick]()
-- [X] 📖 [A Common-Sense Guide to Data Structures and Algorithms - Jay Wengrow]()
-- [ ] 📖 [Grokking Algorithms - Aditya Bhargava]()
-- [ ] 📖 [The Pragmatic Programmer - David Thomas, Andrew Hunt]()
+  <summary><strong>books</strong></summary>
+  
+|  | Books |
+| --- | --- |
+| `X` | 📖 [Free Software, Free Society: Selected Essays of Richard M. Stallman]() |
+| `X` | 📖 [Software Engineering - Ian Sommerville]() |
+| `X` | 📖 [Design Patterns - Gang Of Four]() |
+| `X` | 📖 [Clean Code: A Handbook of Agile Software Craftsmanship - Robert C. Martin]() |
+| `X` | 📖 [Dive Into Design Patterns - Alexander Shvets]() |
+| `X` | 📖 [Spring Microservices in Action - John Carnell, Illary Huaylupo Sánchez]() |
+| `X` | 📖 [Spring Start Here Learn what you need and learn it well - Laurentiu Spilca]() | 
+|     | 📖 [Patterns of Enterprise Application Architecture - Martin Fowler]() |
+| `X` | 📖 [Domain-Driven Design - Eric Evans]() |
+|     | 📖 [Test Driven Development - Kent Beck]() |
+|     | 📖 [Algorithms - Robert Sedgewick]() |
+| `X` | 📖 [A Common-Sense Guide to Data Structures and Algorithms - Jay Wengrow]() |
+|     | 📖 [Grokking Algorithms - Aditya Bhargava]() |
+|     | 📖 [The Pragmatic Programmer - David Thomas, Andrew Hunt]() |
 
 </details>
 
