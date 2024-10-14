@@ -1,9 +1,8 @@
 ### about me
-- a passionate software engineer with expertise in Java, Spring Boot, React, and PostgreSQL and more. 
-building robust, scalable web applications using architectures, leveraging technologies like Docker, Kafka, and event-driven design
+- a passionate software engineer with expertise in Java, Spring Boot, React, PostgreSQL and more. 
+building robust, scalable web applications using architectures and design patterns
 - i love hobby engineering, libre software, repair-friendly products and anything well engineered
 - full time observer and tinkerer; cannot resist fixing problems i encounter around
-
 
 <details>
 <summary><strong>blog posts</strong></summary>
@@ -16,8 +15,6 @@ building robust, scalable web applications using architectures, leveraging techn
 - [Design Patterns](http://can.kurttekin.com/2024/06/design-patterns.html)
 
 </details>
-
-
 
 <details>
 <summary><strong>books</strong></summary>
@@ -40,7 +37,7 @@ building robust, scalable web applications using architectures, leveraging techn
 </details>
 
 <details>
-<summary><strong>bookmarks: some of my favorite video content creators currently</strong></summary>
+<summary><strong>bookmarks - some of my favorite video content creators currently</strong></summary>
   
 - [bigclivedotcom](https://www.youtube.com/@bigclivedotcom)
 - [Technology Connections](https://www.youtube.com/@TechnologyConnections)
@@ -51,4 +48,4 @@ building robust, scalable web applications using architectures, leveraging techn
 
 </details>
 
-[![alt text](banner.png)](http://u.fsf.org/16e)
+[![free software](banner.png)](http://u.fsf.org/16e)
