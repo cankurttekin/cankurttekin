@@ -6,7 +6,8 @@ building robust, scalable web applications using architectures and design patter
 
 <details>
 <summary><strong>blog posts</strong></summary>
-  
+
+- [Domain Models](https://can.kurttekin.com/2024/11/domain-models.html)
 - [Dependency Injection](https://can.kurttekin.com/2024/09/dependency-injection.html)
 - [How To Secure Your Spring Application](http://can.kurttekin.com/2024/08/how-to-secure-your-spring-application.html)
 - [Event Sourcing Pattern](http://can.kurttekin.com/2024/08/event-sourcing-pattern.html)
