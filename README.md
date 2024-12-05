@@ -87,4 +87,3 @@ building robust, scalable web applications using architectures and design patter
 <br>
 
 [![free software](banner.png)](http://u.fsf.org/16e)
-![](https://komarev.com/ghpvc/?username=cankurttekin)
