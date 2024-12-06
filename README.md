@@ -5,7 +5,7 @@ building robust, scalable web applications using architectures and design patter
 - full time observer and tinkerer; cannot resist fixing problems encounter around
 
 <details>
-<summary><strong>blog posts</strong></summary>
+<summary><strong>Blog Posts</strong></summary>
 
 - [Domain Models](https://blog.kurttekin.com/2024/11/domain-models.html)
 - [Dependency Injection](https://blog.kurttekin.com/2024/09/dependency-injection.html)
@@ -18,7 +18,7 @@ building robust, scalable web applications using architectures and design patter
 </details>
 
 <details>
-  <summary><strong>books</strong></summary>
+  <summary><strong>Books</strong></summary>
   
 |  | Books |
 | --- | --- |
@@ -40,7 +40,7 @@ building robust, scalable web applications using architectures and design patter
 </details>
 
 <details>
-<summary><strong>bookmarks - some of my favorite video content creators currently</strong></summary>
+<summary><strong>Bookmarks</strong></summary>
   
 - [bigclivedotcom](https://www.youtube.com/@bigclivedotcom)
 - [Technology Connections](https://www.youtube.com/@TechnologyConnections)
@@ -51,8 +51,8 @@ building robust, scalable web applications using architectures and design patter
 
 </details>
 
-<details open>
-  <summary><strong>Repositories</strong> (click to hide)</summary>
+<details>
+  <summary><strong>Repositories</strong></summary>
 
 <a href="https://github.com/cankurttekin/job-application-tracker">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=cankurttekin&repo=job-application-tracker" /></a>
