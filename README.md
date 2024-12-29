@@ -4,6 +4,11 @@ building robust, scalable web applications using architectures and design patter
 - i love hobby engineering, free/libre software, repair-friendly products and anything well engineered and documented
 - full time observer and tinkerer; cannot resist fixing problems encounter around
 
+### Deployed Projects
+- [atsfs.com](https://atsfs.com) <i>A Job Application Tracker To Manage Applications on Multiple Platforms</i>
+- [reporead.vercel.app](https://reporead.vercel.app) <i>Using AI to create a README.md for any GitHub repository in just seconds</i>.
+
+
 <details>
 <summary><strong>Blog Posts</strong></summary>
 
