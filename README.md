@@ -91,4 +91,4 @@ building robust, scalable web applications using architectures and design patter
 </details>
 <br>
 
-[![free software](banner.png)](http://u.fsf.org/16e)
+[![free software](banner-2.png)](http://u.fsf.org/16e)
