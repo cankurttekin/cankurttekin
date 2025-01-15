@@ -2,7 +2,7 @@
 - a passionate software engineer with expertise in Java, Spring Boot, React, PostgreSQL and more. 
 building robust, scalable web applications using architectures and design patterns
 - i love hobby engineering, free/libre software, repair-friendly products and anything well engineered and documented
-- full time observer and tinkerer; cannot resist fixing problems encounter around
+- full time observer and tinkerer
 
 ### Deployed Projects
 - [atsfs.com](https://atsfs.com) <i>A Job Application Tracker To Manage Applications on Multiple Platforms</i>
@@ -46,12 +46,13 @@ building robust, scalable web applications using architectures and design patter
 
 <details>
 <summary><strong>Bookmarks</strong></summary>
-  
-- [bigclivedotcom](https://www.youtube.com/@bigclivedotcom)
+
 - [Technology Connections](https://www.youtube.com/@TechnologyConnections)
 - [Computerphile](https://www.youtube.com/@Computerphile)
+- [ThePrimeagen](https://www.youtube.com/@ThePrimeTimeagen)
 - [Low Level Learning](https://www.youtube.com/@LowLevelLearning)
 - [David Bombal](https://www.youtube.com/@davidbombal)
+- [bigclivedotcom](https://www.youtube.com/@bigclivedotcom)
 - [fern](https://www.youtube.com/@fern-tv)
 
 </details>
