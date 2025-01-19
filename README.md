@@ -48,12 +48,12 @@ building robust, scalable web applications using architectures and design patter
 <summary><strong>Bookmarks</strong></summary>
 
 - [Technology Connections](https://www.youtube.com/@TechnologyConnections)
+- [Brodie Robertson](https://www.youtube.com/@BrodieRobertson)
 - [Computerphile](https://www.youtube.com/@Computerphile)
 - [ThePrimeagen](https://www.youtube.com/@ThePrimeTimeagen)
-- [Low Level Learning](https://www.youtube.com/@LowLevelLearning)
+- [Low Level](https://www.youtube.com/@LowLevel)
 - [David Bombal](https://www.youtube.com/@davidbombal)
 - [bigclivedotcom](https://www.youtube.com/@bigclivedotcom)
-- [fern](https://www.youtube.com/@fern-tv)
 
 </details>
 <br>
