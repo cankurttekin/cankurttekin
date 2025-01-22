@@ -11,7 +11,8 @@ building robust, scalable web applications using architectures and design patter
 
 <details>
 <summary><strong>Blog Posts</strong></summary>
-
+  
+- [Bir Klise Karsilastirma: Ozgur Yazilim ve Acik Kaynak](https://blog.kurttekin.com/2025/01/bir-klise-karsilastirma-ozgur-yazilim.html)
 - [Domain Models](https://blog.kurttekin.com/2024/11/domain-models.html)
 - [Dependency Injection](https://blog.kurttekin.com/2024/09/dependency-injection.html)
 - [How To Secure Your Spring Application](http://blog.kurttekin.com/2024/08/how-to-secure-your-spring-application.html)
