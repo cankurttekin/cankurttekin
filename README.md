@@ -4,9 +4,10 @@ building robust, scalable web applications using architectures and design patter
 - i love hobby engineering, free/libre software, repair-friendly products and anything well engineered and documented
 - full time observer and tinkerer
 
-### Deployed Projects
+### Projects
 - [atsfs.com](https://atsfs.com) <i>A Job Application Tracker To Manage Applications on Multiple Platforms</i>
 - [reporead.vercel.app](https://reporead.vercel.app) <i>Using AI to create a README.md for any GitHub repository in just seconds</i>.
+- [flowpoddy.vercel.app](https://flowpoddy.vercel.app) <i>Transform any content into audio, personal podcast creator in your pocket. You can even use youtube videos and github repos to create podcast about it.</i>.
 
 
 <details>
